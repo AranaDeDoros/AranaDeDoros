@@ -18,9 +18,8 @@ This profile is where I upload some of my personal projects or experiments. You'
 ---
 
 ## 🚀 what I do
-- Build full-stack apps using modern web technologies  
-- Design APIs, microservices, authentication flows, and integrations  
 - Work across frontend, backend, mobile, and cloud  
+- Design APIs, microservices,  and integrations  
 - Spend 8 hours automating stuff that takes 5 minutes manually
 
 I enjoy mixing creativity + engineering: building stuff that’s fun to create.
@@ -34,13 +33,12 @@ I enjoy mixing creativity + engineering: building stuff that’s fun to create.
 ---
 
 ## 🌱 fun facts
-- I'm a musician and composer. 
+- I'm a musician and composer too. 
 - I play guitar and bass and can read sheet music (to some extent).
-- The profile username is a combiation of mishearing the lyrics of a song from Heroes del Silencio as a kid and an old username I saw very often in MUGEN forums as a teenager.
+- The profile username is a combination of mishearing the lyrics of a song from Heroes del Silencio as a kid and an old username I saw very often in MUGEN forums as a teenager.
+- I can read japanese.
 
 ---
-
-## 📫 contact
 📍 Mexico based  
 
 ---
