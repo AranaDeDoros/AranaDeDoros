@@ -35,7 +35,7 @@ I enjoy mixing creativity + engineering: building stuff that’s fun to create.
 ## 🌱 fun facts
 - I'm a musician and composer too. 
 - I play guitar and bass and can read sheet music (to some extent).
-- The profile username is a combination of mishearing the lyrics of a song from Heroes del Silencio as a kid and an old username I saw very often in MUGEN forums as a teenager.
+- The profile username is a combination of mishearing the lyrics of a Heroes del Silencio's song as a kid and an old username I saw very often in MUGEN forums as a teenager.
 - I can read japanese.
 
 ---
