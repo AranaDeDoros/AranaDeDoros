@@ -3,16 +3,14 @@ This profile is where I upload some of my personal projects or experiments. You'
 
 ---
 
-## 🧰 my main bois
+## 🧰 my favorite langs
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff" />
   <img src="https://img.shields.io/badge/Java-EC2025?logo=openjdk&logoColor=fff" />
   <img src="https://img.shields.io/badge/Scala-DC322F?logo=scala&logoColor=fff" />
-  <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=fff" />
-  <img src="https://img.shields.io/badge/SQL-025E8C?logo=database&logoColor=fff" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff" />
 </p>
 
 ---
@@ -22,7 +20,7 @@ This profile is where I upload some of my personal projects or experiments. You'
 - Design APIs, microservices,  and integrations  
 - Spend 8 hours automating stuff that takes 5 minutes manually
 
-I enjoy mixing creativity + engineering: building stuff that’s fun to create.
+I enjoy mixing creativity + engineering: building stuff that's fun to create.
 
 ---
 
@@ -40,6 +38,5 @@ I enjoy mixing creativity + engineering: building stuff that’s fun to create.
 
 ---
 📍 Mexico based  
-
 ---
 
