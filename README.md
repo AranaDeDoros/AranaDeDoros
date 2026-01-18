@@ -6,7 +6,6 @@ This profile is where I upload some of my personal projects or experiments. You'
 ## my favorite langs
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" />
   <img src="https://img.shields.io/badge/Java-EC2025?logo=openjdk&logoColor=fff" />
   <img src="https://img.shields.io/badge/Scala-DC322F?logo=scala&logoColor=fff" />
@@ -25,8 +24,8 @@ I enjoy mixing creativity + engineering: building stuff that's fun to create.
 ---
 
 ## currently into
-- Django + React stack
-- Scala and functional programming  
+- Fast API
+- Nim
 
 ---
 
@@ -37,7 +36,7 @@ I enjoy mixing creativity + engineering: building stuff that's fun to create.
 - I can read japanese.
 
 ## portfolio
- - [backend/full-stack](https://crux-portis-web-services.netlify.app/)
+ - [engineering cases](https://crux-portis-web-services.netlify.app/)
 
 ---
 📍 Mexico based  
