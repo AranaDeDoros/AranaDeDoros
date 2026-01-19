@@ -15,16 +15,14 @@ This profile is where I upload some of my personal projects or experiments. You'
 ---
 
 ##  what I do
-- Work across frontend, backend, mobile, and cloud  
-- Design APIs, microservices,  and integrations  
-- Spend 8 hours automating stuff that takes 5 minutes manually
-
-I enjoy mixing creativity + engineering: building stuff that's fun to create.
+- work across frontend and backend
+- design APIs, domain modeling, CLI tooling, web apps and dsl experiments every now and then
+- spend 8 hours automating stuff that takes 5 minutes manually
 
 ---
 
 ## currently into
-- Fast API
+- FastAPI
 - Nim
 
 ---
@@ -39,6 +37,6 @@ I enjoy mixing creativity + engineering: building stuff that's fun to create.
  - [engineering cases](https://crux-portis-web-services.netlify.app/)
 
 ---
-📍 Mexico based  
+### 📍 Based in Mexico 
 ---
 
