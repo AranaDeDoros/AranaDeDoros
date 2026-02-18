@@ -62,7 +62,7 @@ This is where I keep personal projects, experiments, and tooling ideas I use to 
 ---
 
 ## 🚧 currently working on 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aranadedoros&repo=monika)](https://github.com/AranaDeDoros/Monika)
+[StreamPrice](https://github.com/AranaDeDoros/PriceStream)
 
 ---
 
