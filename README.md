@@ -62,7 +62,7 @@ This is where I keep personal projects, experiments, and tooling ideas I use to 
 ---
 
 ## 🚧 currently working on 
-[StreamPrice](https://github.com/AranaDeDoros/PriceStream)
+[PriceStream](https://github.com/AranaDeDoros/PriceStream)
 
 ---
 
