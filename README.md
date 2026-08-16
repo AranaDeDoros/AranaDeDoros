@@ -32,14 +32,13 @@ This is where I keep personal projects, experiments, and tooling ideas I use to 
 - [**CobraGen**](https://github.com/AranaDeDoros/CobraGen) — YAML → Django models generator  
 
 ### ![Java](https://img.shields.io/badge/Java-EC2025?logo=openjdk&logoColor=fff)
-- [**SessionBook (backend)**](https://github.com/AranaDeDoros/SessionBookBackend) — Spring backend for guitar practice  
 - [**DevEnvCheck**](https://github.com/AranaDeDoros/DevEnvCheck) — dev environment audit CLI  
 
 ### ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
-- [**KanbAnpp (backend)**](https://github.com/AranaDeDoros/KanbAnppBackend) — Django Kanban prototype  
+- [**CFDI-Inspector**](https://github.com/AranaDeDoros/CFDI-Inspector) — A CFDI visualizer (Mexico)
 
-### ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
-- [**SessionBook (frontend)**](https://github.com/AranaDeDoros/SessionBook) — React frontend  
+### ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
+- [**KanbAnpp (backend)**](https://github.com/AranaDeDoros/KanbAnppBackend) — Django Kanban prototype
 - [**KanbAnpp (frontend)**](https://github.com/AranaDeDoros/KanbAnpp) — React frontend  
 
 ### ![Nim](https://img.shields.io/badge/Nim-FFE953?logo=nim&logoColor=000)
