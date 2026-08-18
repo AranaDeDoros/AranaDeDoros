@@ -47,7 +47,7 @@ This is where I keep personal projects, experiments, and tooling ideas I use to 
 ---
 
 ## 🔗 links
-- [engineering cases](https://crux-portis-web-services.netlify.app/)
+- [engineering cases](https://crux-portis-web-services.netlify.app/study)
 - [dev blog](https://dev.to/)
   
 ---
