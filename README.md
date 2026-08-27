@@ -11,7 +11,6 @@ This is where I keep personal projects, experiments, and tooling ideas I use to 
 ![Scala](https://img.shields.io/badge/Scala-DC322F?logo=scala&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
-![Java](https://img.shields.io/badge/Java-EC2025?logo=openjdk&logoColor=fff)
 ![Nim](https://img.shields.io/badge/Nim-FFE953?logo=nim&logoColor=000)
 
 ## 🔍 currently into
