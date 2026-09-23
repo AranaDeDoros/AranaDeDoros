@@ -1,11 +1,16 @@
-This is where I keep personal projects, experiments, and tooling ideas I use to think through problems. You're welcome to explore and connect!
+This is where I build, experiment, and share tools.
+
+Feel free to explore the code, check out my commercial releases, or reach out to connect!
 
 ---
 
 ## 🛠️ what I do
-- frontend + backend
-- APIs, domain modeling, CLIs, web apps, DSL experiments
-- spend 8 hours automating a 5-minute task
+- full-stack software engineering & independent tool builder
+- APIs, domain modeling, CLIs, web apps, & DSL experiments
+- turning repetitive tasks into standalone software and automation tools
+
+## 🛒 products & commercial releases
+- 📦 **[Browse software, digital assets, & releases on Gumroad](https://aranadedoros.gumroad.com/)**
 
 ## ❤️ favorite langs
 ![Scala](https://img.shields.io/badge/Scala-DC322F?logo=scala&logoColor=fff)
@@ -14,12 +19,12 @@ This is where I keep personal projects, experiments, and tooling ideas I use to 
 ![Nim](https://img.shields.io/badge/Nim-FFE953?logo=nim&logoColor=000)
 
 ## 🔍 currently into
-- FastAPI
-- Nim
+- desktop and native GUI development
+- high-performance tooling with Nim
 
 ---
 
-## 📦 personal projects
+## 📦 featured open-source & projects
 
 ### ![Scala](https://img.shields.io/badge/Scala-DC322F?logo=scala&logoColor=fff)
 - [**AssetFLOW**](https://github.com/AranaDeDoros/AssetFLOW) — functional image processing toolkit  
@@ -33,35 +38,36 @@ This is where I keep personal projects, experiments, and tooling ideas I use to 
 - [**DevEnvCheck**](https://github.com/AranaDeDoros/DevEnvCheck) — dev environment audit CLI  
 
 ### ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
-- [**CFDI-Inspector**](https://github.com/AranaDeDoros/CFDI-Inspector) — a CFDI visualizer (Mexico)
+- [**CFDI-Inspector**](https://github.com/AranaDeDoros/CFDI-Inspector) — a CFDI visualizer (Mexico)  
 
-### ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
-- [**KanbAnpp (backend)**](https://github.com/AranaDeDoros/KanbAnppBackend) — Django Kanban prototype
+### ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
+- [**KanbAnpp (backend)**](https://github.com/AranaDeDoros/KanbAnppBackend) — Django Kanban prototype  
 - [**KanbAnpp (frontend)**](https://github.com/AranaDeDoros/KanbAnpp) — React frontend  
 
 ### ![Nim](https://img.shields.io/badge/Nim-FFE953?logo=nim&logoColor=000)
-- [**Monika**](https://github.com/AranaDeDoros/Monika) — Nim port of JpnUtils
+- [**Monika**](https://github.com/AranaDeDoros/Monika) — Japanese string utilities library  
 
-##
+### ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
+- [**Monika.js**](https://github.com/AranaDeDoros/monika.js) — JavaScript port of Monika  
+
+---
+
+## 🚧 currently building 
+- [**PriceStream**](https://github.com/AranaDeDoros/PriceStream)  - Multiprovider Product Ingestion Platform with support for historical price tracking
 
 ---
 
 ## 🔗 links
-- [homepage cases](https://ricardo-rojas-dev.onrender.com/)
-- [dev blog](https://dev.to/)
-  
+- 🏪 [Software & Digital Products Store](https://aranadedoros.gumroad.com/)
+- 🌐 [Portfolio & Case Studies](https://ricardo-rojas-dev.onrender.com/)
+- ✍️ [Dev Blog](https://dev.to/)
+
 ---
 
 ## 🎸 fun facts 'bout me
-- musician
-- guitar + bass, can read sheet music (kind of)
-- username lore involves *Héroes del Silencio* and MUGEN forums
-- can read Japanese
-
----
-
-## 🚧 currently working on 
-[PriceStream](https://github.com/AranaDeDoros/PriceStream)
+- Musician (guitar + bass), can read sheet music (kind of)
+- Username lore involves *Héroes del Silencio* and old-school MUGEN forums
+- Can read Japanese
 
 ---
 
