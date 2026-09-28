@@ -32,7 +32,8 @@ Feel free to explore the code, check out my commercial releases, or reach out to
 - [**JpnUtils**](https://github.com/AranaDeDoros/JpnUtils) — Japanese string utilities  
 - [**KeyScala**](https://github.com/AranaDeDoros/KeyScala) — CLI password manager  
 - [**ScalaCron**](https://github.com/AranaDeDoros/ScalaCron) — cron expression micro-DSL  
-- [**CobraGen**](https://github.com/AranaDeDoros/CobraGen) — YAML → Django models generator  
+- [**CobraGen**](https://github.com/AranaDeDoros/CobraGen) — YAML → Django models generator
+- [**PriceStream**](https://github.com/AranaDeDoros/PriceStream) — Multiprovider Product Ingestion Platform with support for historical price tracking
 
 ### ![Java](https://img.shields.io/badge/Java-EC2025?logo=openjdk&logoColor=fff)
 - [**DevEnvCheck**](https://github.com/AranaDeDoros/DevEnvCheck) — dev environment audit CLI  
@@ -52,10 +53,6 @@ Feel free to explore the code, check out my commercial releases, or reach out to
 
 ---
 
-## 🚧 currently building 
-- [**PriceStream**](https://github.com/AranaDeDoros/PriceStream)  - Multiprovider Product Ingestion Platform with support for historical price tracking
-
----
 
 ## 🔗 links
 - 🏪 [Software & Digital Products Store](https://aranadedoros.gumroad.com/)
